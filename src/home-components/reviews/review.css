@@ -1,0 +1,17 @@
+.re-C-Intro{
+    background-image: url(footerback.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn-revi-right{
+    top: 30%; 
+    right: 0%; 
+}
+.btn-revi-left{
+    top: 30%; 
+    left: 0%; 
+}
+
+.review-container > .col-md-4{
+    margin: 10px 0px;
+}

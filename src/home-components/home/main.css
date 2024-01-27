@@ -1,0 +1,71 @@
+.message{
+    z-index: 100;
+    position: fixed;
+    top: 70px;
+    right:  -100%;
+    border-top-right-radius: .5rem;
+    border-top-left-radius: .5rem;
+    width: 350px;
+    background-color: #fff;
+    transition-property: all;
+    transition-duration: 0.4s;
+    transition-timing-function: ease-out;
+    box-shadow: 1rem 1rem 1rem 1rem rgba(0, 0, 0, 0.2);
+}
+@media screen and (max-width:400px) {
+    .message{
+        width: 98%;
+    }
+    
+}
+
+.show-message{
+    right: 45px ;
+}
+@media screen and (max-width:500px) {
+    .show-message{
+        right: 50%;
+        transform: translateX(50%);
+    } 
+}
+
+.hid-message{
+    right: -100%;
+}
+
+.message-border{
+    border: 2px solid aliceblue;
+    background-color: transparent;
+    width: 100%;
+    border-left: none;
+    border-right: none;
+}
+.message-border-inner{
+    background:  linear-gradient(to left, #3494e6, #ec6ead);
+    width: 5%;
+    height: 100%;
+    padding: 3px;
+    transition-property: all;
+    transition-duration: 0.9s;
+    transition-timing-function: ease-out;
+}
+
+.top-70p{
+    top: 70px;
+}
+
+/* @media screen and (max-width:510px) {
+    .message{
+        width: 400px;
+    }
+}
+@media screen and (max-width:450px) {
+    .message{
+        width: 300px;
+    }
+}
+@media screen and (max-width:300px) {
+    .message{
+        width: 95%;
+    }
+} */

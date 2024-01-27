@@ -1,0 +1,19 @@
+
+.fs-lg{
+    font-size: 50px;
+}
+
+.step-1{
+    background: linear-gradient(to right, black, black, rgba(145, 81, 4));
+    transform: scale(0);
+}
+
+.step-3{
+    background: linear-gradient(to right, black, black, rgb(3, 138, 3));
+    transform: scale(0);
+}
+
+.step-2{
+    background: linear-gradient(to right, black, black, rgb(2, 2, 180));
+    transform: scale(0);
+}

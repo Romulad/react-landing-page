@@ -1,0 +1,23 @@
+.process-head{
+    position: sticky;
+    height: 100%;
+    top: 10rem;
+}
+.process-icon{
+    padding: 8px 10px;
+    background-color: rgb(24, 23, 23);
+}
+.border-left-center{
+    z-index: -1;
+    position: absolute;
+    width: 2px;
+    height: 100%;
+    background-color: #dee2e6;
+    top: 0px;
+    left: 50%;
+}
+@media screen and (max-width:768px) {
+    .process-head{
+        position: static;
+    }
+}
