@@ -1,7 +1,5 @@
 # Landing Page using React + Vite
 
-## Live version here : page-n21i5mij5-romulad.vercel.app
-
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
