@@ -9,17 +9,27 @@ To run this app locally make sure you have the following prerequisites on your s
 
 ### Clone the repo
 - Open your terminal
-- navigate to th folder where you want to clone the repository
-- the run:
+- navigate to the folder where you want to clone the repository
+- then run:
 ```bash
 git clone https://github.com/Romulad/react-landing-page.git
 ```
-This command will clone this repo to your local machine.
+This command will clone this repository to your local machine.
 
 ### Install dependencies and run the app
-Navigate to new directory created that contain the react app and run :
-- `npm install` this will install the necessary package to run the website
-- Then `npm run dev` to start the app
+In your terminal :
+- navigate to new directory created by running this:
+  ```bash
+  cd react-landing-page
+  ```
+- install the necessary packages by running this command:
+  ```bash
+  npm install
+  ```
+- once the installation is completed start the app with:
+  ```bash
+  npm run dev
+  ```
 
 And you've done, visite the url display in your terminal to see the app.
 
