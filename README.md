@@ -1,8 +1,9 @@
-# Landing Page using React + Vite
+# Landing Page For a website service creation using React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Run locally
 
-Currently, two official plugins are available:
+To run this app locally :
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- you need to have `node` on your system to run the app. Install a verson for you system here[https://nodejs.org/en/download/current]
+- you need to have `git` to clone this repo. Get for you system here[https://git-scm.com/downloads]
+
