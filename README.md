@@ -8,9 +8,11 @@ To run this app locally make sure you have the following prerequisites on your s
 - [Git](https://git-scm.com/downloads) for cloning the repository. 
 
 ### Clone the repo
-Open your terminal, and run:
+- Open your terminal
+- navigate to th folder where you want to clone the repository
+- the run:
 ```bash
-git clone https://github.com/Romulad/react-landing-page.git
+git clone https://github.com/Romulad/react-landing-page.git```
 This command will clone this repo to your local machine.
 
 ### Install dependencies and run the app
