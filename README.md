@@ -1,6 +1,6 @@
 # React Landing Page For Website Service Creation
 
-Live version : [Click here](https://git-scm.com/downloads)
+Live version : [Click here](https://page-romulad.vercel.app/)
 
 ## Run locally
 To run this app locally make sure you have the following prerequisites on your system:
