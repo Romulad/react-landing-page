@@ -18,18 +18,18 @@ This command will clone this repository to your local machine.
 
 ### Install dependencies and run the app
 In your terminal :
-- navigate to new directory created by running this:
+1 - Navigate to the new directory created by running:
   ```bash
   cd react-landing-page
   ```
-- install the necessary packages by running this command:
+2 - install the necessary packages by running this command:
   ```bash
   npm install
   ```
-- once the installation is completed start the app with:
+3 - once the installation is completed start the app with:
   ```bash
   npm run dev
   ```
 
-And you've done, visite the url display in your terminal to see the app.
+And you're done! visit the url displayed in your terminal to view the app.
 
